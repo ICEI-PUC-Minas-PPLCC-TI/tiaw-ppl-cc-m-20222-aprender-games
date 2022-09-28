@@ -224,7 +224,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | RE-01  | O projeto deverá ser entregue no final do semestre letivo. |
 | RE-02  | O aplicativo deve se restringir às tecnologias básicas da Web no Frontend. |
 | RE-03  | A equipe não pode subcontratar o desenvolvimento do trabalho.  |
-| RE-04  | Falta de recursos financeiros para aprimorar recompensas. |                                |
+| RE-04  | Falta de recursos financeiros para aprimorar recompensas. |                                
 
 # Projeto de Interface
 
@@ -252,16 +252,54 @@ de todas as idades, inclusive crianças. A seguir estarão as três mecânicas m
 ## Wireframes
 
 ......
+
 <img src="images/signup.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela de Sign up: Nesta tela o usuário fara seu cadastro, caso ele já seja cadastrado basta clicar em “Já tenho conta”. 
+
+
+.
 <img src="images/signin.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela de Sign in: Nessa tela usuários já cadastrados irão logar em suas contas. 
+
+
+.
 <img src="images/Assinaturas.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela de Assinaturas: Nessa tela você poderá escolher o plano que utilizará.  
+
+
+.
 <img src="images/Home.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela Home: A home será onde o usuário terá acesso rápido às principais mecânicas do site, sendo o nosso hub geral de informações. 
+
+
+.
 <img src="images/Jogos.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela de Jogos: A tela de jogos será responsável por apresentar aos consumidores todos os jogos que o site terá em seu banco de dados de uma maneira prática e inteligente. 
+
+
+.
 <img src="images/aulasevideos.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela de Aulas e Vídeos: Essa página será o centro de todas as videoaulas e aulas do site, todas as informações sobre jogas, jogadores, etc. serão passadas por essa página. 
+
+
+.
 <img src="images/Chats.PNG"  style="width:1.9375in;height:1.94444in" />
+Telas de Chats: Essa página será responsável pela comunicação geral do site, seja entre os clinetes e os desenvolvedores, ou entre os próprios clientes.
+
+
+.
 <img src="images/Sobre.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela Sobre: Nesta tela iremos contar quem nós somos, de onde viemos e qual é nosso objetivo com o site. 
+
+
+.
 <img src="images/Perfil.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela de Perfil do Usuário: Essa tela será responsável por mostrar os principais dados do usuário, além de outras informações que ele achar cabível (será personalizável nas configurações). 
+
+
+.
 <img src="images/Buscar.PNG"  style="width:1.9375in;height:1.94444in" />
+Tela de Buscar: Essa tela será responsável de facilitar a utilização do site permitindo o usuário pesquisar por palavra chave para encontrar qualquer conteúdo, jogo ou aula dentro da plataforma. 
 ......
 
 # Metodologia
@@ -275,6 +313,10 @@ apresenta diversas das decisões que tomamos já concretizadas.  ......
 
 ......  A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base
 para definição do processo de desenvolvimento.
+
+O quadro kanban foi feito no Trello (link:https://trello.com/b/aWMYKPcc/tiaw-ag):
+<img src="images/trello.PNG"  style="width:1.9375in;height:1.94444in" />
+<img src="images/legenda_trello.PNG" style="width:1.9375in;height:2.58333in" />
 
 A equipe está organizada da seguinte maneira:
 
