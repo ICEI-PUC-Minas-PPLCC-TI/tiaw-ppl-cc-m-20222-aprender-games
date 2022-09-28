@@ -344,7 +344,7 @@ A equipe está organizada da seguinte maneira:
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinking | Miro |  https://miro.com/welcomeonboard/SFlMVnVhV1U2SXFYQndlWmRBdjR3ZGlEUnZJcUp3b0Y1MDZKVU90ektBeG55RGlUR2lBQUxSdXg4d255SE1tOXwzNDU4NzY0NTIyNDg2NTQ0NTkwfDI=?share_link_id=954359008594 | 
-|Repositório de código | GitHub |  https://github.com/orgs/ICEI-PUC-Minas-PPLCC-TI/teams/aprender-games  |
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-aprender-games.git  |
 |Hospedagem do site | Heroku |  Ainda não temos site publicado | 
 |Protótipo Interativo | MavelApp | https://marvelapp.com/prototype/b65i7bj | 
 ......
