@@ -360,4 +360,40 @@ A equipe está organizada da seguinte maneira:
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  O projeto da solução se consistiu em criar um hub de vídeos para os consumidores terem um acesso mais rapido e específico ao seus jogos preferidos ......
+
+## Tecnologias Utilizadas
+
+......  Nos utilizamos da linguagem de marcação HTML para a criação de um site que pegue os principais jogos competitivos do momento e fornece, semanalmente, os 9 melhores vídeos educativos sobre o conteudo. Neste site utilizamos também a linguagem de estilo CSS para a construção de um design mais simples e moderno que comunique melhor com nossos futuros consumidores. Também usamos a linguagem de programação JavaScript para criar sites responsivos e mais dinâmicos, além de implementar uma funcionalidae de registro de entidades para a criação de usuários no site. ......
+
+## Arquitetura da solução
+
+......  Optamos por um design mais simples e direto, de uma maneira onde a comunicação para o consumidor é mais direta e mais fácil. Optamos por uma hpme principal onde os jogos contidos no site estarâo sendo demonstrados, lá você poderá escolher um jogo e ser levado para uma página exclusiva para ele onde os vídeos e aulas se encontrarão. .......
+
+# Avaliação da Aplicação
+
+......  Testamos se todos os href estavam levando o consumidor para o endereço certo, visto que nosso site se trata de um hub para outros meios de comunicação essa é a aplicação fundamental (testado dia 03/12). Também testamos o cadastro e login de usuários possibilitados via Codepen.io (testado dia 03/12). ......
+
+## Plano de Testes
+
+......  
+        1. Teste das funcionalidades das Classes: Buttons. (FUNCIONAL)
+        2. Teste da funcionalidade dos cadastro de entidades. (FUNCIONAL)   
+        3. Teste da presença de todas as imagens e links servidos via href. (FUNCIONAL)
+......
+
+## Ferramentas de Testes (Opcional)
+
+...... VSCode e Replit. ......
+
+## Registros de Testes
+
+......  Nós não registramos os testes alpha, visto que o site ainda esta em beta. ......
+
+
+# Referências
+
+......  
+- Skillshare - https://www.skillshare.com/pt/membership/checkout
+- YouTube - https://www.youtube.com/
+......
