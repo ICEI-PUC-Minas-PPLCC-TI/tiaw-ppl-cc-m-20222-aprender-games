@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Igame</title>
+    <link rel="stylesheet" href="home.css">
+    <script src="home.js"></script>
+
+
+</head>
+
+<body>
+
+
+    <header class="cabecalho">
+
+
+
+        <nav>
+            <a class="logo" href="index.html"><img src="" alt=""></a>
+
+            <div class="mobile-menu">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+            <ul class="nav-list">
+                <li><a class="qqr" href="videoscs.html">Counter-Strike</a></li>
+                <li><a class="qqr" href="videoslol.html">League Of Legends</a></li>
+                <li><a class="qqr" href="videosrl.html">Rocket League</a></li>
+                <li><a class="btm" href="cadastro.html">Cadastro</a></li>
+                <li><a class="btm" href="login.html">Login</a></li>
+            </ul>
+
+        </nav>
+        <div class="carousel">
+            <div class="container" id="img">
+                <img class="imgcar" src="https://media.wired.com/photos/627da1085d49787abdf713b4/master/pass/Pakistani-Gamers-Want-a-Seat-at-the-Table-Culture-shutterstock_1949862841.jpg" alt="1280x720?sig">
+            </div>
+        </div>
+    </header>
+
+
+    <section class="sec1">
+
+
+
+        <div class="titulo">
+            <h1>Nossas ferramentas</h1>
+            <div class="dclinha"></div>
+            <div class="fileira">
+                <div class="coluna">
+                    <img class="img-col" src="https://www.pngmart.com/files/5/Counter-Strike-Logo-PNG-Picture.png" alt="">
+                    <h4>Counter-Strike: Global Offensive.</h4>
+                    <p>
+                        CS:GO é o último lançamento da série Counter Strike, e tem atraído uma média de 11 milhões de
+                        jogadores por mês desde o seu lançamento em 2012.</p>
+                    <a href="videoscs.html" class="btm">Aprenda mais</a>
+                </div>
+                <div class="coluna">
+                    <img class="img-col" src="https://files.tecnoblog.net/wp-content/uploads/2019/05/league-of-legends.jpg" alt="">
+                    <h4>League of Legends.</h4>
+                    <p>League of Legends é um jogo de estratégia em que duas equipes de cinco poderosos Campeões se enfrentam para destruir a base uma da outra.</p>
+                    <a href="videoslol.html" class="btm">Aprenda mais</a>
+                </div>
+                <div class="coluna">
+                    <img class="img-col" src="https://www.pichauarena.com.br/wp-content/uploads/2020/09/egs-social-rocketleague-news-1920x1080-1920x1080-975383433.jpg" alt="">
+                    <h4>Rocket League</h4>
+                    <p>Valorant é um jogo eletrônico multijogador gratuito para jogar de tiro em primeira pessoa desenvolvido e publicado pela Riot Games.</p>
+                    <a href="videosrl.html" class="btm">Aprenda mais</a>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+    </section>
+
+    <footer> Igame © 2022 </footer>
+
+
+    <script>
+        window.addEventListener('mouseover', initLandbot, { once: true });
+        window.addEventListener('touchstart', initLandbot, { once: true });
+        var myLandbot;
+        function initLandbot() {
+            if (!myLandbot) {
+                var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+                s.addEventListener('load', function () {
+                    myLandbot = new Landbot.Popup({
+                        configUrl: 'https://storage.googleapis.com/landbot.online/v3/H-1399765-RIBC0O6U0HBZ9FLB/index.json',
+                    });
+                });
+                s.src = 'https://cdn.landbot.io/landbot-3/landbot-3.0.0.js';
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+            }
+        }
+    </script>
+
+</body>
+
+</html>

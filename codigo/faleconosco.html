@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<meta charset="UTF-8">
+	<title>Contact us form validation Using Javascript</title>
+	<link rel="stylesheet" href="faleconosco.css">
+	<script src="faleconosco.js"></script>
+</head>
+<body>
+
+<div class="wrapper">
+  <h2>Fale conosco</h2>
+  <div id="erro de mensagem"></div>
+  <form id="myform" onsubmit="return validate();">
+    <div class="input_field">
+        <input type="text" placeholder="Nome" id="nome">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="Assunto" id="assunto">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="Telefone" id="telefone">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="E-mail" id="e-mail">
+    </div>
+    <div class="input_field">
+        <textarea placeholder="Mensagem" id="mensagem"></textarea>
+    </div>
+    <div class="btn">
+        <input type="submit">
+    </div>
+  </form>
+</div>
+
+</body>
+</html>
